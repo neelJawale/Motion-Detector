@@ -7,6 +7,6 @@
 * Libraries used : Pandas, OpenCV, Time
 
 ## Upshot :
-Videos, essentially, can be stored as a stack of image frames. The Tarantino movies that you so take pleasure in watching are, in their essence, a large amount of pictures shown in rapid enough succession. *Fun Fact* - A human brain needs atleast 24 frames per second to perceive a series of image frames as a video. Here, I am trying to compare different frames in the succession to the initial static frame. This is done by comparing the intensity values of the pixels. That is exactly what I have tried here to do.
+Videos, essentially, can be stored as a stack of image frames. The Tarantino movies that you so take pleasure in watching are, in their essence, a large amount of pictures shown in rapid enough succession. *Fun Fact* - A human brain needs atleast 24 frames per second to perceive a series of image frames as a video. Here, I am trying to compare different frames in the succession to the initial static frame. This is done by comparing the intensity values of the pixels.
 
 ##Check out the code
